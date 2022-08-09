@@ -1,5 +1,5 @@
 # Titanic---Machine-Learning-from-Disaster
-Kaggle Comprtition
+Kaggle Competition
 
 Pipeline looks as follows:
 1. Data Preprocessing (File reading, data labeling etc) 
